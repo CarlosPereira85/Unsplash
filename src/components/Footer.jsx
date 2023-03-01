@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer>
-      <p>© Joseph Urbina 2022</p>
+      <p>© Carlos Pereira 2022</p>
     </footer>
   );
 };
